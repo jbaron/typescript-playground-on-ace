@@ -1,14 +1,3 @@
-TypeScript Playground on Ace
-==========================
-TypeScript Playground build on ace editor
+Please checkout [CATS](https://github.com/jbaron/cats) instead
 
-http://hi104.github.com/typescript-playground-on-ace/
-
-See Also
------------------
-
-TypeScript Playground
-http://www.typescriptlang.org/Playground/
-
-Ace
-http://ace.ajax.org
+A VERY feature rich IDE for TypeScript developers
